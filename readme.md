@@ -1,8 +1,21 @@
 # Clinical Rounds App
 
-The Clinical Rounds App is designed to streamline and enhance the efficiency of clinical rounds. Built with React, TypeScript, and Vite, this app provides a modern, fast, and reliable interface for healthcare professionals with Azure AD authentication and security group-based access control.
+The Clinical Rounds App is designed to streamline and enhance the efficiency of clinical rounds.
+
+## At-a-Glance Clinical Workflow Enhancements
+- Unified Rounding Canvas: Orchestrates nurse, physician, and case management activities on one shared workflow to cut handoff friction and speed safe dispositions. Benefits: Bedside nurses, hospitalists, case management, patients.
+- Universal Structured SOAP Note: Single adaptive note with role-focused segments to reduce duplicate charting and variation while still meeting discipline and documentation integrity needs. Benefits: All clinicians, CDI/coders, quality teams.
 
 ![App preview](./images/app.png)
+
+
+- AI-Assisted Diagnostic Co‑pilot: Accelerates differential generation, suggests focused questions, and aligns workups with guidelines. Benefits: Hospitalists, ED clinicians, residents, utilization management/quality teams, patients.v
+
+![App preview](./images/app1.png)
+
+Built with React, TypeScript, and Vite, this app provides a modern, fast, and reliable interface for healthcare professionals with Azure AD authentication and security group-based access control.
+
+
 
 ## Features
 
